@@ -48,3 +48,25 @@
 - [C Notes](https://goalkicker.com/CBook) (PDF)
 - [C Programming](https://en.wikibooks.org/wiki/Programming%3AC) - Wikibooks
 - [C Programming Boot Camp - Paul Gribble](http://www.gribblelab.org/CBootCamp/)
+
+### C++
+
+- [C++ Annotations](https://fbb-git.gitlab.io/cppannotations/)
+- [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) - Editors: Bjarne Stroustrup, Herb Sutter
+- [C++ GUI Programming With Qt 3](http://www.computer-books.us/cpp_0010.php)
+- [C++ Language](http://www.cplusplus.com/doc/tutorial/)
+- [C++ Notes](https://goalkicker.com/CPlusPlusBook) (PDF)
+- [C++ Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) (email address *requested*, not required)
+- [C++ Tricks](http://www.bordoon.com/cplusplus/book_wrapper.html)
+- [CS106X Programming Abstractions in C++](http://web.stanford.edu/class/cs106x/)
+- [Elements of Programming](http://elementsofprogramming.com) - Alexander Stepanov and Paul McJones - (PDF)
+- [Financial Numerical Recipes in C++](http://finance.bi.no/~bernt/gcc_prog/recipes/) - Bernt Arne Ødegaard
+- [Game Programming Patterns](http://gameprogrammingpatterns.com)
+- [Google's C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+- [Hands-On System Programming with C++](https://www.packtpub.com/free-ebooks/hands-system-programming-c) - Dr. Rian Quinn (Packt account *required*)
+- [How to make an Operating System](https://www.gitbook.com/book/samypesse/how-to-create-an-operating-system/details) - Samy Pesse
+- [How To Think Like a Computer Scientist: C++ Version](http://greenteapress.com/thinkcpp/index.html) - Allen B. Downey
+- [Introduction to Design Patterns in C++ with Qt](http://ptgmedia.pearsoncmg.com/images/9780131879058/downloads/0131879057_Ezust_book.pdf) (PDF)
+- [Joint Strike Fighter, C++ Coding Standards, by Bjarne Stroustrup](http://www.stroustrup.com/JSF-AV-rules.pdf) (PDF)
+- [Learn C++.](http://www.learncpp.com) (Online)
+- [Matters Computational: Ideas, Algorithms, Source Code, by Jorg Arndt](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
