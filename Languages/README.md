@@ -4,6 +4,14 @@
 ### HTML
 - [HTML Cheat Sheet](https://digital.com/tools/html-cheatsheet/)
 
+### Android
+
+- [Android 4 App Development Essentials](http://www.techotopia.com/index.php/Android_4_App_Development_Essentials)
+- [Android Notes](https://goalkicker.com/AndroidBook) (PDF)
+- [Android Programming Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/android) ([PDF](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid), [Kindle](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid)) (email address -requested*, not required)
+- [CodePath Android Cliffnotes](https://github.com/codepath/android_guides/wiki)
+- [Coreservlets Android Programming Tutorial](http://www.coreservlets.com/android-tutorial/)
+
 
 ### CSS
 
