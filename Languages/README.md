@@ -15,6 +15,9 @@
 
 ### CSS
 
+- [CSS-Tricks](https://css-tricks.com/)
+- [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)
+
 
 #### Machine Learning
 
@@ -25,3 +28,8 @@
 
 - [Java for Complete Beginners](http://courses.caveofprogramming.com/courses/java-for-complete-beginners)
 - [Java for Mobile Devices - Introducing Codename One](https://codenameone.teachable.com/p/java-for-mobile-devices-introducing-codename-one)
+
+### Python
+
+- [Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
+- [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
