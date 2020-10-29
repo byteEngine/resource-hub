@@ -41,6 +41,16 @@
 - [A Whirlwind Tour of Python](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf) - Jake VanderPlas (PDF) [(EPUB, MOBI)](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp?download=yes)
 - [Automate the Boring Stuff](http://automatetheboringstuff.com/chapter0/) - Al Sweigart
 - [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf) (PDF)
+- [Python Practice Projects](http://pythonpracticeprojects.com)
+- [Python Programming](https://en.wikibooks.org/wiki/Python_Programming) - Wikibooks (2.7)
+- [Python Programming](https://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf) - Wikibooks (PDF) (2.6)
+- [Scipy Lecture Notes](http://scipy-lectures.github.io)
+- [SICP in Python](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/) (3.2)
+- [Slither into Python: An introduction to Python for beginners](https://www.slitherintopython.com) (3.7)
+- [Suporting Python 3: An In-Depth Guide](http://python3porting.com) (2.6 - 2.x & 3.1 - 3.x)
+- [Test-Driven Web Development with Python](http://www.obeythetestinggoat.com/pages/book.html) - Harry Percival (3.3 - 3.x)
+- [Text Processing in Python](http://gnosis.cx/TPiP/) - David Mertz (2.3 - 2.x)
+- [The Coder's Apprentice: Learning Programming with Python 3](http://www.spronck.net/pythonbook/) - Pieter Spronck (PDF) (3.x)
 
 ### C
 
@@ -56,6 +66,7 @@
 - [C Notes](https://goalkicker.com/CBook) (PDF)
 - [C Programming](https://en.wikibooks.org/wiki/Programming%3AC) - Wikibooks
 - [C Programming Boot Camp - Paul Gribble](http://www.gribblelab.org/CBootCamp/)
+
 
 ### C++
 
