@@ -10,6 +10,7 @@
 
 - [CSS-Tricks](https://css-tricks.com/)
 - [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)
+- [CSS Tutorial](https://www.youtube.com/watch?v=QqmCs2UTS8s&list=PLP9IO4UYNF0XQNx1OinMm84lyGzWSWDms)
 
 
 #### Machine Learning
@@ -32,3 +33,5 @@
 ### php
 
 -[PHP Tutorials for Beginners](https://www.youtube.com/watch?v=yMclPkD4sQg&list=PLS1QulWo1RIZc4GM_E04HCPEd_xpcaQgg)
+
+
