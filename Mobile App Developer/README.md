@@ -19,4 +19,11 @@
 ### Angular
 - [Angular Tutorials For Beginners](https://www.youtube.com/watch?v=FVPGJHinItI&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
 
+#### Angular.js
 
+- [Angular for the jQuery developer](http://www.ng-newsletter.com.s3-website-us-east-1.amazonaws.com/posts/angular-for-the-jquery-developer.html)
+- [Angular.js Guide](https://docs.angularjs.org/guide/)
+- [Angular.js Material Designing](https://material.angularjs.org/latest/)
+- [Angular.js Tutorial](https://docs.angularjs.org/tutorial)
+- [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
+- [AngularJS Notes for Professionals](https://books.goalkicker.com/AngularJSBook) (PDF)
