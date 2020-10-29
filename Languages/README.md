@@ -1,8 +1,7 @@
-# Resources for learn languages
+# Resources for learning languages
 <br><br>
 
 ### HTML
-- [HTML Cheat Sheet](https://digital.com/tools/html-cheatsheet/)
 
 ### Android
 
@@ -28,6 +27,8 @@
 
 - [Java for Complete Beginners](http://courses.caveofprogramming.com/courses/java-for-complete-beginners)
 - [Java for Mobile Devices - Introducing Codename One](https://codenameone.teachable.com/p/java-for-mobile-devices-introducing-codename-one)
+- [Java (Beginner) Programming Tutorials](https://www.youtube.com/watch?v=Hl-zzrqQoSE&list=PLFE2CE09D83EE3E28)
+
 
 ### Python
 
