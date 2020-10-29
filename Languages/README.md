@@ -10,7 +10,7 @@
 
 - [CSS-Tricks](https://css-tricks.com/)
 - [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)
-- [CSS Tutorial](https://www.youtube.com/watch?v=QqmCs2UTS8s&list=PLP9IO4UYNF0XQNx1OinMm84lyGzWSWDms)
+- [CSS Tutorial](https://www.youtube.com/watch?v=qKoajPPWpmo&list=PLr6-GrHUlVf8JIgLcu3sHigvQjTw_aC9C)
 
 
 #### Machine Learning
