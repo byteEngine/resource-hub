@@ -6,3 +6,7 @@
 
 ### Angular
 -[Angular Tutorials For Beginners](https://www.youtube.com/watch?v=FVPGJHinItI&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
+
+
+
+
