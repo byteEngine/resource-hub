@@ -3,6 +3,8 @@
 
 ### HTML
 
+- [HTML Tutorial for Beginners](https://websitesetup.org/html-tutorial-beginners/)
+
 ### Android
 
 - [Android 4 App Development Essentials](http://www.techotopia.com/index.php/Android_4_App_Development_Essentials)
