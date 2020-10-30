@@ -16,6 +16,7 @@
 
 - [CSS-Tricks](https://css-tricks.com/)
 - [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)
+- [CSS Tutorial](https://www.tutorialspoint.com/css/index.htm)
 
 
 #### Machine Learning
