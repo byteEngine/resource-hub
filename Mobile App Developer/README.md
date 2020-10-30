@@ -18,5 +18,6 @@
 
 ### Angular
 -[Angular Tutorials For Beginners](https://www.youtube.com/watch?v=FVPGJHinItI&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
+- [Learn Angular step-by-step](https://angular-templates.io/tutorials/about/learn-angular-from-scratch-step-by-step)
 
 
