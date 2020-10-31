@@ -3,6 +3,8 @@
 
 ### HTML
 
+- [HTML Tutorial for Beginners](https://websitesetup.org/html-tutorial-beginners/)
+
 ### Android
 
 - [Android 4 App Development Essentials](http://www.techotopia.com/index.php/Android_4_App_Development_Essentials)
@@ -16,13 +18,13 @@
 
 - [CSS-Tricks](https://css-tricks.com/)
 - [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)
-- [CSS Tutorial](https://www.youtube.com/watch?v=qKoajPPWpmo&list=PLr6-GrHUlVf8JIgLcu3sHigvQjTw_aC9C)
 
 
 #### Machine Learning
 
 -  [A Brief Introduction to Machine Learning for Engineers](https://arxiv.org/pdf/1709.02840.pdf) - Osvaldo Simeone (PDF)
 -  [A Brief Introduction to Neural Networks](http://www.dkriesel.com/en/science/neural_networks)
+
 
 ### Java
 
