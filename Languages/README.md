@@ -4,8 +4,9 @@
 ### HTML
 
 - [HTML Cheat Sheet](https://digital.com/tools/html-cheatsheet/)
-- [HTML & CSS: Design and Build Web Sites](https://wtf.tw/ref/duckett.pdf)
-
+- [HTML For Beginners The Easy Way](https://html.com/)
+- [HTML CSS JavaScript - Free Online Editor and Tools](https://html-css-js.com/)
+- [HTML Tutorial - W3Schools](https://www.w3schools.com/html/)
 ### CSS
 
 - [CSS-Tricks](https://css-tricks.com/)
