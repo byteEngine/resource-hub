@@ -2,11 +2,19 @@
 
 ### Grow this repository by adding resources that will help every developer around the world. 
 
+
+### C
+
+- [StackOverflow](https://stackoverflow.com/)
+- [Github](https://github.com/)
+- [Medium](https://medium.com/)
+- [Hackernoon](https://hackernoon.com/)
+
+
 ### React-Native
 
 - [Mobile App Development with react native](https://www.youtube.com/results?search_query=cs+50+mobile+development)
-=======
-### Grow this repository by adding resources that will help every developer around the world.
+
 
 ### Android
 - [The complete Android Application Development Course](https://www.youtube.com/watch?v=roDz8mMvbIg&list=PLknSwrodgQ72X4sKpzf5vT8kY80HKcUSe)
@@ -15,6 +23,9 @@
 - [Android Programming Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/android) ([PDF](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid), [Kindle](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid)) (email address *requested*, not required)
 - [CodePath Android Cliffnotes](https://github.com/codepath/android_guides/wiki)
 - [Coreservlets Android Programming Tutorial](http://www.coreservlets.com/android-tutorial/)
+- [Github](https://github.com/)
+- [Medium](https://medium.com/)
+- [Hackernoon](https://hackernoon.com/)
 
 ### Angular
 
@@ -22,8 +33,8 @@
 - [Learn Angular step-by-step](https://angular-templates.io/tutorials/about/learn-angular-from-scratch-step-by-step)
 =======
 - [Angular Tutorials For Beginners](https://www.youtube.com/watch?v=FVPGJHinItI&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
-
-
+- [StackOverflow](https://stackoverflow.com/questions/21018791/angularjs-resource-service-example)
+- [EXPLORE ANGULAR RESOURCES - Angular](https://angular.io/resources?category=education)
 #### Angular.js
 
 - [Angular for the jQuery developer](http://www.ng-newsletter.com.s3-website-us-east-1.amazonaws.com/posts/angular-for-the-jquery-developer.html)
@@ -38,3 +49,4 @@
 - [Practical Angular: Build your first web apps with Angular 8](https://leanpub.com/practical-angular) - Ahmed Bouchefra *(Leanpub account or valid email requested)*
 - [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1/)
 - [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
+
