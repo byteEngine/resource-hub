@@ -19,6 +19,7 @@
 
 - [CSS-Tricks](https://css-tricks.com/)
 - [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)
+- [What is CSS - Learn web development](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
 
 
 #### Machine Learning
