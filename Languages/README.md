@@ -25,8 +25,14 @@
 ### CSS
 
 - [CSS-Tricks](https://css-tricks.com/)
+
+- [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)
+- [What is CSS - Learn web development](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
+
+=======
 - [CSS Tutorial - W3Schools](https://www.w3schools.com/css/)
 - [How To Learn CSS — Smashing Magazine](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
+
 
 #### Machine Learning
 
