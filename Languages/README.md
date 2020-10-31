@@ -16,6 +16,7 @@
 
 - [CSS-Tricks](https://css-tricks.com/)
 - [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)
+- [CSS Tutorial](https://www.youtube.com/watch?v=qKoajPPWpmo&list=PLr6-GrHUlVf8JIgLcu3sHigvQjTw_aC9C)
 
 
 #### Machine Learning
@@ -67,9 +68,15 @@
 - [C Programming](https://en.wikibooks.org/wiki/Programming%3AC) - Wikibooks
 - [C Programming Boot Camp - Paul Gribble](http://www.gribblelab.org/CBootCamp/)
 
-
+### php
+-[PHP Tutorials for Beginners](https://www.youtube.com/watch?v=yMclPkD4sQg&list=PLS1QulWo1RIZc4GM_E04HCPEd_xpcaQgg)
 ### C++
 
+
+
+
+
+=======
 - [C++ Annotations](https://fbb-git.gitlab.io/cppannotations/)
 - [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) - Editors: Bjarne Stroustrup, Herb Sutter
 - [C++ GUI Programming With Qt 3](http://www.computer-books.us/cpp_0010.php)
@@ -89,3 +96,4 @@
 - [Joint Strike Fighter, C++ Coding Standards, by Bjarne Stroustrup](http://www.stroustrup.com/JSF-AV-rules.pdf) (PDF)
 - [Learn C++.](http://www.learncpp.com) (Online)
 - [Matters Computational: Ideas, Algorithms, Source Code, by Jorg Arndt](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
+
