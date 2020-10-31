@@ -4,6 +4,7 @@
 ### HTML
 
 - [HTML Tutorial for Beginners](https://websitesetup.org/html-tutorial-beginners/)
+- [How to Embed PDF Document in HTML Web Page](https://www.youtube.com/watch?v=b5Vdy4_xWVU)
 
 ### Android
 
