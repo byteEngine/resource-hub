@@ -3,6 +3,12 @@
 
 ### HTML
 
+
+- [HTML Cheat Sheet](https://digital.com/tools/html-cheatsheet/)
+- [HTML For Beginners The Easy Way](https://html.com/)
+- [HTML CSS JavaScript - Free Online Editor and Tools](https://html-css-js.com/)
+- [HTML Tutorial - W3Schools](https://www.w3schools.com/html/)
+=======
 - [HTML Tutorial for Beginners](https://websitesetup.org/html-tutorial-beginners/)
 
 ### Android
@@ -14,11 +20,12 @@
 - [Coreservlets Android Programming Tutorial](http://www.coreservlets.com/android-tutorial/)
 
 
+
 ### CSS
 
 - [CSS-Tricks](https://css-tricks.com/)
-- [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)
-
+- [CSS Tutorial - W3Schools](https://www.w3schools.com/css/)
+- [How To Learn CSS — Smashing Magazine](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
 
 #### Machine Learning
 
@@ -36,6 +43,9 @@
 ### Python
 
 - [Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
+
+- [Python For Beginners | Python.org](https://www.python.org/)
+=======
 - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 - [20 Python Libraries You Aren't Using (But Should)](https://www.oreilly.com/learning/20-python-libraries-you-arent-using-but-should) - Caleb Hattingh
 - [A Beginner's Python Tutorial](https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial) - Wikibooks
@@ -78,7 +88,7 @@
 
 
 
-=======
+
 - [C++ Annotations](https://fbb-git.gitlab.io/cppannotations/)
 - [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) - Editors: Bjarne Stroustrup, Herb Sutter
 - [C++ GUI Programming With Qt 3](http://www.computer-books.us/cpp_0010.php)
@@ -98,4 +108,5 @@
 - [Joint Strike Fighter, C++ Coding Standards, by Bjarne Stroustrup](http://www.stroustrup.com/JSF-AV-rules.pdf) (PDF)
 - [Learn C++.](http://www.learncpp.com) (Online)
 - [Matters Computational: Ideas, Algorithms, Source Code, by Jorg Arndt](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
+
 

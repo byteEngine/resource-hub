@@ -2,11 +2,19 @@
 
 ### Grow this repository by adding resources that will help every developer around the world. 
 
+
+### C
+
+- [StackOverflow](https://stackoverflow.com/)
+- [Github](https://github.com/)
+- [Medium](https://medium.com/)
+- [Hackernoon](https://hackernoon.com/)
+
+
 ### React-Native
 
 - [Mobile App Development with react native](https://www.youtube.com/results?search_query=cs+50+mobile+development)
-=======
-### Grow this repository by adding resources that will help every developer around the world.
+
 
 ### Android
 - [The complete Android Application Development Course](https://www.youtube.com/watch?v=roDz8mMvbIg&list=PLknSwrodgQ72X4sKpzf5vT8kY80HKcUSe)
@@ -38,3 +46,4 @@
 - [Practical Angular: Build your first web apps with Angular 8](https://leanpub.com/practical-angular) - Ahmed Bouchefra *(Leanpub account or valid email requested)*
 - [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1/)
 - [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
+
