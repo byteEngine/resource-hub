@@ -34,7 +34,7 @@
 =======
 - [Angular Tutorials For Beginners](https://www.youtube.com/watch?v=FVPGJHinItI&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
 - [StackOverflow](https://stackoverflow.com/questions/21018791/angularjs-resource-service-example)
-
+- [EXPLORE ANGULAR RESOURCES - Angular](https://angular.io/resources?category=education)
 #### Angular.js
 
 - [Angular for the jQuery developer](http://www.ng-newsletter.com.s3-website-us-east-1.amazonaws.com/posts/angular-for-the-jquery-developer.html)
