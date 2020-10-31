@@ -7,11 +7,12 @@
 - [HTML For Beginners The Easy Way](https://html.com/)
 - [HTML CSS JavaScript - Free Online Editor and Tools](https://html-css-js.com/)
 - [HTML Tutorial - W3Schools](https://www.w3schools.com/html/)
+
 ### CSS
 
 - [CSS-Tricks](https://css-tricks.com/)
-- [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)
-
+- [CSS Tutorial - W3Schools](https://www.w3schools.com/css/)
+- [How To Learn CSS — Smashing Magazine](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
 
 #### Machine Learning
 
@@ -26,4 +27,4 @@
 ### Python
 
 - [Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
-- [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+- [Python For Beginners | Python.org](https://www.python.org/)
