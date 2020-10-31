@@ -8,3 +8,4 @@
 - [Cookbook](https://flutter.dev/docs/cookbook)
 - [Flutter Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/flutter-succinctly) (PDF, Kindle) (email address *requested*, not required)
 - [Flutter Tutorials Handbook](https://kodestat.gitbook.io/flutter/)
+- [Flutter Travel UI Tutorial | Apps From Scratch](https://www.youtube.com/watch?v=CSa6Ocyog4U)
