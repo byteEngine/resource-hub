@@ -5,8 +5,8 @@
 2. CSS
 3. Flutter
 4. HTML
-5. ReactJs
-6. JavaScript
+5. JavaScript
+6. ReactJs
    
 
 ### HTML
