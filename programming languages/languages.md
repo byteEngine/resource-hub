@@ -17,3 +17,6 @@
 
 ### C++
 - [Programming: Principles and Practice Using C++ (2nd Edition)](https://dl.icdst.org/pdfs/files3/fef0590f02fa06bb42cba558fbc9e51c.pdf) - Bjarne Stroustrup (PDF)
+
+### Java
+- [Core Java Volume I - Fundamentals (Eleventh Edition)](https://github.com/deyou123/corejava/blob/master/Prentice.Hall.Core.Java.Volume.I.Fundamentals.11th.Edition.pdf) - Cay Horstmann (PDF)
