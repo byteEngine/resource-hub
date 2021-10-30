@@ -20,3 +20,6 @@
 
 ### Java
 - [Core Java Volume I - Fundamentals (Eleventh Edition)](https://github.com/deyou123/corejava/blob/master/Prentice.Hall.Core.Java.Volume.I.Fundamentals.11th.Edition.pdf) - Cay Horstmann (PDF)
+
+### PHP
+- [Learning PHP, MySQL & JavaScript: With jQuery, CSS & HTML5 (4th Edition)](https://doc.lagout.org/programmation/Learning%20PHP,%20MySQL%20%26%20JavaScript_%20with%20jQuery,%20CSS%20%26%20HTML5%20(4th%20ed.)%20%5BNixon%202014-12-14%5D.pdf) - Robin Nixon (PDF)
