@@ -17,3 +17,9 @@
 
 ### C++
 - [Programming: Principles and Practice Using C++ (2nd Edition)](https://dl.icdst.org/pdfs/files3/fef0590f02fa06bb42cba558fbc9e51c.pdf) - Bjarne Stroustrup (PDF)
+
+### Java
+- [Core Java Volume I - Fundamentals (Eleventh Edition)](https://github.com/deyou123/corejava/blob/master/Prentice.Hall.Core.Java.Volume.I.Fundamentals.11th.Edition.pdf) - Cay Horstmann (PDF)
+
+### PHP
+- [Learning PHP, MySQL & JavaScript: With jQuery, CSS & HTML5 (4th Edition)](https://doc.lagout.org/programmation/Learning%20PHP,%20MySQL%20%26%20JavaScript_%20with%20jQuery,%20CSS%20%26%20HTML5%20(4th%20ed.)%20%5BNixon%202014-12-14%5D.pdf) - Robin Nixon (PDF)
