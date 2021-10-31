@@ -24,3 +24,6 @@
 
 ### PHP
 - [Learning PHP, MySQL & JavaScript: With jQuery, CSS & HTML5 (4th Edition)](https://doc.lagout.org/programmation/Learning%20PHP,%20MySQL%20%26%20JavaScript_%20with%20jQuery,%20CSS%20%26%20HTML5%20(4th%20ed.)%20%5BNixon%202014-12-14%5D.pdf) - Robin Nixon (PDF)
+
+### Python
+- [Think Python - How to Think Like a Computer Scientist (2nd Edition)](https://greenteapress.com/thinkpython2/thinkpython2.pdf) - Allen Downey (PDF)
